@@ -1,7 +1,8 @@
 # shout-server
 
-This is a simple UDP echo server written in Go using low-level system calls via the syscall package. It listens on port
-7777, receives messages, converts them to uppercase, and sends them back to the sender.
+This is a simple UDP echo server written in Go using low-level system calls via the syscall package. 
+
+It listens on port `7777`, receives messages, converts them to uppercase, and sends them back to the sender.
 
 ## Test
 
