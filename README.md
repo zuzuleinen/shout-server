@@ -11,7 +11,7 @@ Start the server:
 go run .
 ```
 
-Send a message via UDP to server:
+Send a message via UDP to server with netcat:
 
 ```shell
 nc -u 127.0.0.1 7777
